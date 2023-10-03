@@ -34,7 +34,24 @@ NetWeave is built using the following technologies:
 ✅ Node.js with Express.js \
 ✅ MongoDB (as the database)
 
-## Project Pages
+## 〰️ Getting Started:
+
+**Prerequisites**
+Before you begin, ensure you have the following installed on your system:
+- **Node js**
+- **MongoDB**
+- **Git**
+
+**Installation**
+
+1. Clone the repository:
+   ```
+   https://github.com/MarahHab/Social_Media_Web.git
+   ```
+
+
+
+## 〰️ Project Pages
 
 ##  🏠 Home Page
 ![Home Page](/screenshots/Home.jpg)
