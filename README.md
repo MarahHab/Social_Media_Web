@@ -44,10 +44,22 @@ Before you begin, ensure you have the following installed on your system:
 
 **Installation**
 
-1. Clone the repository:
+**1. Clone the repository:**
    ```
    https://github.com/MarahHab/Social_Media_Web.git
    ```
+**2. Change directory to the project folder:**
+```
+cd NetWeave
+```
+**3. Install dependencies:**
+```
+npm install
+```
+**4. start server and client**
+```
+npm start dev
+```
 
 
 
