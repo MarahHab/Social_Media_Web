@@ -36,7 +36,7 @@ NetWeave is built using the following technologies:
 
 ## Project Pages
 
-## 🏠 Home Page
+##  🏠 Home Page
 ![Home Page](/screenshots/Home.jpg)
 - **Description**: The home page serves as the main entry point to the application, displaying relevant content and providing navigation options.
 
