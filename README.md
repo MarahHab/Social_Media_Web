@@ -5,7 +5,8 @@ Welcome to NetWeave, a social media web platform developed to connect engineers 
 🔸 About NetWeave \
 🔸 Features \
 🔸Tech Stack \
-🔸 Project Presentation Video
+🔸 Project Presentation Video\
+🔸 Project Pages
 
 
 ## 〰️ About NetWeave
@@ -35,30 +36,30 @@ NetWeave is built using the following technologies:
 
 ## Project Pages
 
-**🏠 Home Page**
+## 🏠 Home Page
 ![Home Page](/screenshots/Home.jpg)
-- Description: The home page serves as the main entry point to the application, displaying relevant content and providing navigation options.
+- **Description**: The home page serves as the main entry point to the application, displaying relevant content and providing navigation options.
 
-**🔐 Sign In Page**
+## 🔐 Sign In Page
 ![Sign In Page](screenshots/Login.jpg)
-- Description: The sign-in page allows users to log in to their accounts with their credentials.
+- **Description**: The sign-in page allows users to log in to their accounts with their credentials.
 
-**📝 Sign Up Page**
+## 📝 Sign Up Page
 ![Sign Up Page](screenshots/Signup.jpg)
-- Description: The sign-up page enables new users to register for an account by providing necessary information.
+- **Description**: The sign-up page enables new users to register for an account by providing necessary information.
 
-**🧑‍🤝‍🧑 Create Your Profile Page**
+## 🧑‍🤝‍🧑 Create Your Profile Page
 ![Create Your Profile Page](screenshots/CreateProfile.jpg)
-- Description: Users can set up their profiles by adding personal information, such as a profile picture Skills, Education,Experiencr,bio ect...
+- **Description**: Users can set up their profiles by adding personal information, such as a profile picture Skills, Education,Experiencr,bio ect...
 
-**👤 Profile Page**
+## 👤 Profile Page
 ![Profile Page](screenshots/profile.jpg)
-- Description: The profile page displays user-specific information, such as posts, comments, and profile details.
+- **Description**: The profile page displays user-specific information, such as posts, comments, and profile details.
 
-**✍ Post Content Page**
+## ✍ Post Content Page
 ![Post Content Page](screenshots/posts.jpg)
-- Description: Users can create, like, and unlike posts on this page. It's a hub for sharing content with the community.
+- **Description**: Users can create, like, and unlike posts on this page. It's a hub for sharing content with the community.
 
-**⚙ Settings Page**
+## ⚙ Settings Page
 ![Settings Page](screenshots/settings.jpg)
-- Description: The settings page offers options to edit the user's account information, change preferences, and delete the account.
+- **Description**: The settings page offers options to edit the user's account information, change preferences, and delete the account.
